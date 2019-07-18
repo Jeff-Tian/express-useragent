@@ -11,7 +11,7 @@
  * @link        http://www.gordejev.lv
  *
  */
-var usrg = require('./lib/express-useragent');
+var usrg = require('./lib/express-useragent-x');
 var UserAgent = usrg.UserAgent;
 module.exports = new UserAgent();
 module.exports.UserAgent = UserAgent;

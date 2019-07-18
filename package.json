@@ -1,7 +1,7 @@
 {
-  "name": "express-useragent",
+  "name": "express-useragent-x",
   "description": "ExpressJS/Connect/TrinteJS user-agent middleware exposing",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "homepage": "https://github.com/biggora/express-useragent/",
   "repository": {
     "type": "git",
@@ -9,9 +9,9 @@
   },
   "license": "MIT",
   "author": {
-    "name": "Alexey Gordeyev",
-    "email": "aleksej@gordejev.lv",
-    "url": "https://github.com/biggora"
+    "name": "Jeff Tian",
+    "email": "jeff.tian@outlook.com",
+    "url": "https://github.com/jeff-tian"
   },
   "contributors": [
     {

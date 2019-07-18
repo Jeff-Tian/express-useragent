@@ -19,4 +19,4 @@ Desktop.ini
 # Coveralls
 coverage
 
-lib/express-useragent.min.js
+lib/*.min.js
